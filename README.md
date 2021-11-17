@@ -1,7 +1,7 @@
 # JavaNangCao - Nhà Sách Minh Khai
 # Đỗ Minh Tuấn
 
-# Kết nối repo ở Remote(Github) với source ở Local(Máy tính)
+# Kết nối repo ở Remote(Github) với folder source code ở Local(Máy tính)
 1. Tạo repo rồi copy nguyên cái đã có sẵn của Github 
 2. Open git bash ở folder chứa code, chỗ mà mình muốn để tất các file or thư mục lên github
 3. Paste thằng đã copy ở mục **1* mà nhận Enter 

@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//Controller/Controller/AddBookController.java=UTF-8
+encoding//Controller/Controller/AddOneBookController.java=UTF-8
+encoding//Controller/Controller/History.java=UTF-8
+encoding//Controller/Controller/UpdateOneBookController.java=UTF-8
+encoding//Controller/Controller/UpdateSachController.java=UTF-8
+encoding//Model/Bo/SachBo.java=UTF-8
+encoding//Model/Bo/SachBoDatabase.java=UTF-8
+encoding//Model/Dao/KhachHangDao.java=UTF-8
+encoding//Model/Dao/LoaiDao.java=UTF-8
+encoding//Model/Dao/SachDao.java=UTF-8
+encoding//src/main/webapp/Cart.jsp=UTF-8
+encoding//src/main/webapp/Product.jsp=UTF-8

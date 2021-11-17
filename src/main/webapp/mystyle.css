@@ -1,0 +1,118 @@
+@charset "ISO-8859-1";
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+a.no1
+{
+	margin-left: 30px;
+	font-size: 30;
+}
+hr
+{
+	width:100px;
+}
+div.no2
+{
+	 display: flex;
+	 width:750px;
+	 margin-left:100px;
+
+}
+div.chino2
+{
+	width:250px;
+}
+div.chino3
+{
+	width:250px;
+}
+div.chino4
+{
+	width:250px;
+}
+.so1
+{
+}
+img.so2
+{
+	width:30px;
+	height:30px;
+}
+ul.no3
+{
+	font-size:15;
+	
+}
+
+.so5
+{
+	margin-left: 1366x;
+	
+}
+.no4
+{
+	width:200px;
+	margin-left:50px;
+	
+
+}
+.no6
+{
+	margin: auto;
+	
+}
+.no7
+{
+	width: 250px;
+}
+div.so10
+{
+	margin-left:50px;
+}
+.minhtuan
+{
+	font-family: inherit;
+	font-size: 20px;
+	color :navy;
+	font-style: normal;
+}
+.so100
+{
+	font-size: 10px;
+	font-family: tahoma;
+	
+}
+.gioithieu3
+{
+    text-align: center;
+}
+.gioithieu4
+{
+    width: 737px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.gioithieu0
+{
+    display: flex;
+    width: 654px;
+    margin-left: 300px;
+}
+.gioithieu1
+{
+    font-style:initial;
+    margin-left: 309px;
+    font-weight: bold;
+
+}
+center
+{
+	margin-left: 100px;
+}
+.gioithieu5
+{
+	margin-left: 550px;
+}
